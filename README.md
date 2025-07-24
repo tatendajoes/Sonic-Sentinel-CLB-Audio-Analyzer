@@ -1,15 +1,7 @@
 # Sonic Sentinel Gunshot Detector
 
 ## Demo Video
-[Watch the SonicSentinel demo on YouTube](https://www.youtube.com/watch?v=ycA4_98_dxw)
-
-<!-- Or, to embed directly in a Markdown file that supports HTML: -->
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/ycA4_98_dxw" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+[![Watch the SonicSentinel demo](https://img.youtube.com/vi/ycA4_98_dxw/hqdefault.jpg)](https://www.youtube.com/watch?v=ycA4_98_dxw)
 
 # Introduction
 
